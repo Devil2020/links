@@ -42,9 +42,6 @@
     "movie_image":"https://alycatgeekery.files.wordpress.com/2016/07/dark-city.jpg" ,
     "movie_video":"https://archive.org/download/Dark_City/Dark.City.1998.720.mp4"
     } ,
-    
-    
-    
     {"movie_name":"Blade 1" ,
     "movie_image":"http://images2.fanpop.com/image/photos/10400000/BLADE-half-vampire-half-humans-10478050-334-500.jpg" ,
     "movie_video":"http://www.deadlyblogger.com/NewRelease/blade1.mp4"
@@ -209,11 +206,6 @@
     "movie_image":"https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" ,
     "movie_video":"http://deadlyblogger.com/NewRelease/wonderwoman.mp4"
     } 
-   ] ,
-  "world_news" : [
-   
-   ] ,
-   "audio" : [
-   ]
+   ] 
 ]
 }
