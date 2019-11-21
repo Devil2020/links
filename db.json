@@ -206,6 +206,133 @@
     "movie_image":"https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" ,
     "movie_video":"http://deadlyblogger.com/NewRelease/wonderwoman.mp4"
     } 
-   ] 
+   ] ,
+  "world_news" : [
+    {
+      "news_name":"WORLD NEWS , Al Jazeera (QA)" ,
+      "news_logo":"http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" ,
+      "news_link":"http://45.126.83.51/qwr9ew/s/s17/index.m3u8" 
+    } ,
+    {
+      "news_name":"WORLD NEWS",Arirang (KR)" ,
+      "news_logo":"http://www.isv.net/logos/arirangtv.png" ,
+      "news_link":"http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8" 
+    } ,
+    {
+      "news_name":"WORLD NEWS",BBC World News" ,
+      "news_logo":"https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" ,
+      "news_link":"http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8" 
+    } ,
+    {  "news_name":"WORLD NEWS Bloomberg Television Asia" ,
+      "news_logo":"https://i.imgur.com/idRFfhY.png" ,
+      "news_link":"http://45.126.83.51/uq2663/h/h03/index.m3u8" 
+    } ,
+    {  "news_name":"Olympic Sport" ,
+      "news_logo":"https://i.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" ,
+      "news_link":"https://ott-live.olympicchannel.com/out/u/OC4_3.m3u8" 
+    } ,
+    {  "news_name":"USA,Action Sports 4U" ,
+      "news_logo":"https://i.imgur.com/K2XHhWW.png" ,
+      "news_link":"https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8" 
+    } ,
+    {  "news_name":"Atlanta Channel" ,
+      "news_logo":"https://i.imgur.com/hSYez3V.png" ,
+      "news_link":"http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8" 
+    } ,
+    {  "news_name":"Live TV" ,
+      "news_logo":"https://i.imgur.com/tHopHL9.png" ,
+      "news_link":"http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8" 
+    } ,
+    {  "news_name":"Bounce TV" ,
+      "news_logo":"https://i.imgur.com/JS08AAb.png" ,
+      "news_link":"https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8?fluxustv.m3u8" 
+    } ,
+    {  "news_name":"Disney Junior" ,
+      "news_logo":"https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" ,
+      "news_link":"https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a" 
+    } ,
+    {  "news_name":"Movie 4 You" ,
+      "news_logo":"https://i.imgur.com/S6Hcqoy.png" ,
+      "news_link":"https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8" 
+    } ,
+    {  "news_name":"Movie Kingdom" ,
+      "news_logo":"https://i.imgur.com/YgRz2Cc.png" ,
+      "news_link":"https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8" 
+    } ,
+    {  "news_name":"Cinema World" ,
+      "news_logo":"https://i.imgur.com/gHCOcuF.png" ,
+      "news_link":"http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8" 
+    } 
+  ],
+  "audio":{
+    {"audio_name":"Dance Wave" ,
+    "audio_image":"http://dancewave.online/images/dw.png" ,
+    "audio_link":"http://retro.dancewave.online/retrodance.ogg"
+    },
+    {"audio_name":"Music Choise for Alt R&B" ,
+    "audio_image":"http://i.imgur.com/nTGxIjv.jpg" ,
+    "audio_link":"http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8"
+    },
+    {"audio_name":"Music Choise for Alternative" ,
+    "audio_image":"http://i.imgur.com/nTGxIjv.jpg" ,
+    "audio_link":"http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8"
+    },
+    {"audio_name":"Music Choise for Dance Hip hop " ,
+    "audio_image":"http://i.imgur.com/nTGxIjv.jpg" ,
+    "audio_link":"http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8"
+    },
+    {"audio_name":"Indie Music" ,
+    "audio_image":"http://i.imgur.com/nTGxIjv.jpg" ,
+    "audio_link":"http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/chunklist.m3u8"
+    },
+    {"audio_name":"Prysm Deep" ,
+    "audio_image":"https://cdn-radiotime-logos.tunein.com/s237777d.png" ,
+    "audio_link":"http://listen.shoutcast.com/prysmdeep"
+    },
+    {"audio_name":"PulsRadio Dance" ,
+    "audio_image":"https://www.pulsradio.com/DANCE.png" ,
+    "audio_link":"http://213.251.190.165:80/pulsHD.mp3"
+    },
+    {"audio_name":" Radio Disney 94.3 FM Buenos Aires" ,
+    "audio_image":"https://www.enlaradio.com.ar/adjuntos/image/FM/elr_disney.png" ,
+    "audio_link":"http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8"
+    },
+    {"audio_name":"FM" ,
+    "audio_image":"https://i.imgur.com/2HjwGDD.jpg" ,
+    "audio_link":"http://167.114.208.100:9844/;"
+    },
+    {"audio_name":"Cool Radio" ,
+    "audio_image":"https://i3.radionomy.com/radios/400/d5d2e4b7-2c50-48b1-8335-0527c8f769c2.png" ,
+    "audio_link":"http://176.9.30.66:80/cool64"
+    },
+    {"audio_name":"Arab detroit Radio" ,
+    "audio_image":"https://cdn-radiotime-logos.tunein.com/s111721d.png" ,
+    "audio_link":"http://192.240.102.133:9590/stream"
+    },
+    {"audio_name":"1 AM Radio" ,
+    "audio_image":"https://s3.amazonaws.com/dashradio-files/icon_logos/1AM/NEW1AM/1am_320.png" ,
+    "audio_link":"https://ice55.securenetsystems.net/DASH75"
+    },
+    {"audio_name":" Classic Rock" ,
+    "audio_image":"https://cdn-radiotime-logos.tunein.com/s226064q.png" ,
+    "audio_link":"http://209.222.19.108:10042/stream"
+    },
+    {"audio_name":"IHeart 80" ,
+    "audio_image":"http://i.imgur.com/MmWQqsX.png" ,
+    "audio_link":"http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8"
+    },
+    {"audio_name":"Music Choice - Christmas Music" ,
+    "audio_image":"https://i.imgur.com/JvYuakR.png" ,
+    "audio_link":"http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8"
+    },
+    {"audio_name":"BBC Radio 1" ,
+    "audio_image":"https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" ,
+    "audio_link":"http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8"
+    },
+    {"audio_name":" Zone Mix" ,
+    "audio_image":"http://i.imgur.com/WZXJNfU.jpg" ,
+    "audio_link":"http://laut.fm/zone-mix"
+    }
+  }
 ]
 }
