@@ -268,7 +268,7 @@
   ] }
   ,
   {
-  "audio":{
+  "audio":[
     {"audio_name":"Dance Wave" ,
     "audio_image":"http://dancewave.online/images/dw.png" ,
     "audio_link":"http://retro.dancewave.online/retrodance.ogg"
@@ -337,7 +337,6 @@
     "audio_image":"http://i.imgur.com/WZXJNfU.jpg" ,
     "audio_link":"http://laut.fm/zone-mix"
     }
-  }
 ]
 }
 }
