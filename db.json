@@ -216,12 +216,12 @@
       "news_link":"http://45.126.83.51/qwr9ew/s/s17/index.m3u8" 
     } ,
     {
-      "news_name":"WORLD NEWS",Arirang (KR)" ,
+      "news_name":"WORLD NEWS,Arirang (KR)" ,
       "news_logo":"http://www.isv.net/logos/arirangtv.png" ,
       "news_link":"http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8" 
     } ,
     {
-      "news_name":"WORLD NEWS",BBC World News" ,
+      "news_name":"WORLD NEWS,BBC World News" ,
       "news_logo":"https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" ,
       "news_link":"http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8" 
     } ,
@@ -338,5 +338,6 @@
     "audio_link":"http://laut.fm/zone-mix"
     }
 ]
-}
+  }
+ ]
 }
