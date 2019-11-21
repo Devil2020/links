@@ -1,0 +1,250 @@
+{
+"data":[
+  "movies" : [
+    {
+    "movie_name":"Jungle Book" ,
+    "movie_image":"https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" ,
+    "movie_video":"https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4"
+    } ,
+    {"movie_name":"Ninja turtuls" ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg " ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/tmnt2.mp4"
+    } ,
+    {"movie_name":"3 Ninja" ,
+    "movie_image":"http://www.dvdplanetstore.pk/wp-content/uploads/2014/01/3-Ninjas.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/3ninja1.mp4 "
+    } ,
+    {"movie_name":"Bad Boys 1" ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/a/a8/Bad_Boys.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/badboys1.mp4 "
+    } ,
+    {"movie_name":"The Fifth Element" ,
+    "movie_image":"https://static.rogerebert.com/uploads/movie/movie_poster/the-fifth-element-1997/large_yph0ZQC0I56CzQANxEMxj3x78gb.jpg" ,
+    "movie_video":"https://archive.org/download/TheFifthElement_201405/The%20Fifth%20Element.mp4 "
+    } ,
+    
+    
+    
+    {"movie_name":"Scream 2" ,
+    "movie_image":"http://img.moviepostershop.com/scream-2-movie-poster-1997-1010343859.jpg" ,
+    "movie_video":"https://archive.org/download/Scream21997.720p.BrRip.x264.YIFY/Scream%202%201997.720p.BrRip.x264.YIFY.mp4"
+    } ,
+    {"movie_name":"Man in Black 1" ,
+    "movie_image":"http://fr.web.img5.acsta.net/pictures/14/05/26/16/57/120603.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/mnb1.mp4"
+    } ,
+    {"movie_name":"The Fifth Element" ,
+    "movie_image":"https://static.rogerebert.com/uploads/movie/movie_poster/the-fifth-element-1997/large_yph0ZQC0I56CzQANxEMxj3x78gb.jpg" ,
+    "movie_video":"https://archive.org/download/TheFifthElement_201405/The%20Fifth%20Element.mp4 "
+    } ,
+    {"movie_name":"Home Alone 3" ,
+    "movie_image":"https://i.ytimg.com/vi/rasaVJgqbPA/movieposter.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/homealone3.mp4"
+    } ,
+    {"movie_name":"The Dark City" ,
+    "movie_image":"https://alycatgeekery.files.wordpress.com/2016/07/dark-city.jpg" ,
+    "movie_video":"https://archive.org/download/Dark_City/Dark.City.1998.720.mp4"
+    } ,
+    
+    
+    
+    {"movie_name":"Blade 1" ,
+    "movie_image":"http://images2.fanpop.com/image/photos/10400000/BLADE-half-vampire-half-humans-10478050-334-500.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/blade1.mp4"
+    } ,
+    {"movie_name":"Belly" ,
+    "movie_image":"https://i.ytimg.com/vi/1m_m5AKYT-s/movieposter.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/belly1998.mp4"
+    } ,
+    {"movie_name":"The Devil Fest" ,
+    "movie_image":"http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" ,
+    "movie_video":"https://archive.org/download/The_Devils_Feast/the_devils_feast_512kb.mp4"
+    } ,
+    {"movie_name":"X-Men 1" ,
+    "movie_image":"https://i.imgur.com/MvKpXQm.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/xmen1.mp4"
+    } ,
+    {"movie_name":" Magical Christmas " ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/a/a0/Mickey%27s_Magical_Christmas.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4"
+    } ,
+    
+    
+    
+    
+    {"movie_name":" Tarazan and Jane" ,
+    "movie_image":"https://images4.static-bluray.com/products/20/28232_1_large.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4"
+    } ,
+    {"movie_name":" Men in Black 2" ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/3/3d/Men_in_Black_II_Poster.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/mnb2.mp4"
+    } ,
+    {"movie_name":" Home Alone 4" ,
+    "movie_image":" https://upload.wikimedia.org/wikipedia/en/a/ad/Home_alone_4_tv_print_ad.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/homealone4.mp4"
+    } ,
+    {"movie_name":"Blade 2" ,
+    "movie_image":"https://badmoviemarathon.files.wordpress.com/2014/12/blade-ii.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/blade2.mp4"
+    } ,
+    {"movie_name":" Xmen 2" ,
+    "movie_image":"https://ca.movieposter.com/posters/archive/main/96/MPW-48454" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/xmen2.mp4"
+    } ,
+    
+    
+    
+    
+    {"movie_name":" Matrix 2 " ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/matrix2.mp4"
+    } ,
+    {"movie_name":" Bad Boys 2" ,
+    "movie_image":"http://static.rogerebert.com/uploads/movie/movie_poster/bad-boys-ii-2003/large_11jdudaJnp4rizjYnwLEb0dNKbd.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/badboys2.mp4"
+    } ,
+    {"movie_name":" Fast and Ferious 2 " ,
+    "movie_image":"https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/eb/eb21cc0143d96dbc8e3a58f1a81e4dd2_500x735.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/fast2.mp4"
+    } ,
+    {"movie_name":" The Day after Tomorrow " ,
+    "movie_image":"https://static.rogerebert.com/uploads/movie/movie_poster/the-day-after-tomorrow-2004/large_wOwT5GpuMEzCIBY8b5hd9PRX0fu.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/theday2004.mp4"
+    } ,
+    {"movie_name":" Saw 1 " ,
+    "movie_image":"http://nerdsontherocks.com/wp-content/uploads/2015/10/Saw_1.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/saw1.mp4"
+    } ,
+    
+    
+    
+    
+    
+    {"movie_name":" I Robot " ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/3/3b/Movie_poster_i_robot.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/irobot.mp4"
+    } ,
+    {"movie_name":" Hell boy 1" ,
+    "movie_image":"https://www.iceposter.com/thumbs/MOV_ccc9d688_b.jpg" ,
+    "movie_video":"https://archive.org/download/Hellboy2004DirectorsCut1080pX26510bitJoy/Hellboy%202004%20Directors%20Cut%20(1080p%20x265%2010bit%20Joy).mp4"
+    } ,
+    {"movie_name":"Blade 3" ,
+    "movie_image":"https://www.movieposter.com/posters/archive/main/40/MPW-20378" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/blade3.mp4"
+    } ,
+    {"movie_name":" Exorism for Emily Rose " ,
+    "movie_image":"https://www.thedigitalfix.com/image/1143729591/film/59437.jpg" ,
+    "movie_video":"https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
+    } ,
+    {"movie_name":" Saw 2" ,
+    "movie_image":"https://i.jeded.com/i/saw-ii-2.16005.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/saw2.mp4"
+    } ,
+    
+    
+    
+    
+    {"movie_name":"Fast and Farious in Tokyo 3" ,
+    "movie_image":"https://allihavetosayaboutthat.files.wordpress.com/2015/05/fast_and_the_furious_tokyo_drift_the_2006_1517_poster.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/fast3.mp4"
+    } ,
+    {"movie_name":" Saw 3" ,
+    "movie_image":"https://i.imgur.com/N09KN0W.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/saw3.mp4"
+    } ,
+    {"movie_name":" Transformers 1" ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/6/66/Transformers07.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/transformers1.mp4"
+    } ,
+    {"movie_name":" Saw 4" ,
+    "movie_image":"https://moviesfilmsandflix.files.wordpress.com/2017/09/saw-4-poster.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/saw4.mp4"
+    } ,
+    {"movie_name":" I`m Legend" ,
+    "movie_image":"http://www.yifysubtitles.com/images/movies/movie-151.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/iaml.mp4"
+    } ,
+    
+    
+    
+    
+    {"movie_name":" Saw 5" ,
+    "movie_image":"http://cdn.movieweb.com/img.teasers.posters/FIJ5QJKPF4SJNQ_358_a/Saw-V.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/saw5.mp4"
+    } ,
+    {"movie_name":"Iron Man" ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/ironman1.mp4"
+    } ,
+    {"movie_name":" Wolfarine" ,
+    "movie_image":"https://s.movie.as/images/p/600/10052_m1238718497.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/origin.mp4"
+    } ,
+    {"movie_name":" Transformers 2" ,
+    "movie_image":"https://i.jeded.com/i/transformers-revenge-of-the-fallen.25586.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/transformers2.mp4"
+    } ,
+    {"movie_name":" Saw 6" ,
+    "movie_image":"http://cdn.movieweb.com/img.teasers.posters/FIg69glkDJ3Rjh_362_a/Saw-VI.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/saw6.mp4"
+    } ,
+    
+    
+    
+    
+    {"movie_name":"Fast and Farius 4" ,
+    "movie_image":"https://i.pinimg.com/originals/f6/7a/89/f67a89314819ba3f28e197cb5900c5d2.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/fast4.mp4"
+    } ,
+    {"movie_name":"Hunger Game " ,
+    "movie_image":"http://dee.sekai.cz/wp-content/uploads/2012/09/Hunger-Games.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/hungergame1.mp4"
+    } ,
+    {"movie_name":"Men in Black 3" ,
+    "movie_image":"https://s3.thcdn.com/productimg/0/300/300/72/10625672-1349283280-857679.png" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/mnb3.mp4"
+    } ,
+    {"movie_name":" The world war Z" ,
+    "movie_image":"https://images-na.ssl-images-amazon.com/images/I/91ykiz8%2BVsL._SY445_.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/world.mp4"
+    } ,
+    {"movie_name":"The Hobbit: The Desolation of Smaug" ,
+    "movie_image":"https://www.yifysubtitles.com/images/movies/movie-2585.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/smaug2013.mp4"
+    } ,
+    
+    
+    
+    {"movie_name":"Iron Man 3" ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/d/d5/Iron_Man_3_theatrical_poster.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/ironman3.mp4"
+    } ,
+    {"movie_name":"Insidious 2" ,
+    "movie_image":"https://thecinemaid.files.wordpress.com/2014/02/insidious-chapter-2-2013-03.jpg" ,
+    "movie_video":"http://www.deadlyblogger.com/NewRelease/insidious2.mp4"
+    } ,
+    {"movie_name":"Taken 3" ,
+    "movie_image":"https://images-na.ssl-images-amazon.com/images/I/91igg0QG7nL._RI_SX200_.jpg" ,
+    "movie_video":"http://deadlyblogger.com/NewRelease/taken3.mp4"
+    } ,
+    {"movie_name":"Jon Wick 1" ,
+    "movie_image":"https://i.pinimg.com/originals/55/ab/10/55ab107453cf4a78b24c184d29abf25b.jpg" ,
+    "movie_video":"http://deadlyblogger.com/NewRelease/johnwick.mp4"
+    } ,
+    {"movie_name":"X-men Apocalypse" ,
+    "movie_image":"https://unobtainium13.files.wordpress.com/2016/05/x-men_-_apocalypse.jpg" ,
+    "movie_video":"http://deadlyblogger.com/NewRelease/xmen2016.mp4"
+    } ,
+    {"movie_name":" Wonder Woman" ,
+    "movie_image":"https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" ,
+    "movie_video":"http://deadlyblogger.com/NewRelease/wonderwoman.mp4"
+    } 
+   ] ,
+  "world_news" : [
+   
+   ] ,
+   "audio" : [
+   ]
+]
+}
