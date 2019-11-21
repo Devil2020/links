@@ -1,6 +1,7 @@
 {
 "data":[
-  "movies":[
+  {
+    "movies":[
     {
     "movie_name":"Jungle Book" ,
     "movie_image":"https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" ,
@@ -206,7 +207,8 @@
     "movie_image":"https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" ,
     "movie_video":"http://deadlyblogger.com/NewRelease/wonderwoman.mp4"
     } 
-   ] ,
+   ] },
+  {
   "world_news" : [
     {
       "news_name":"WORLD NEWS , Al Jazeera (QA)" ,
@@ -263,7 +265,9 @@
       "news_logo":"https://i.imgur.com/gHCOcuF.png" ,
       "news_link":"http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8" 
     } 
-  ],
+  ] }
+  ,
+  {
   "audio":{
     {"audio_name":"Dance Wave" ,
     "audio_image":"http://dancewave.online/images/dw.png" ,
@@ -335,4 +339,5 @@
     }
   }
 ]
+}
 }
